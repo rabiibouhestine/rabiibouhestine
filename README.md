@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I am an experienced data scientist with a strong background in programming, statistics, and machine learning.
-My skills span from extracting and cleaning data to building robust packages and full production quality apps
-backed with machine learning models and state-of-the-art data visualizations.
+I am a Software Engineer specialising in Frontend Web Development with 6+ years of experience in building web apps. I have had the opportunity of collaborating with diverse businesses, companies, and agencies worldwide since 2018.
 
 - 🔭 I’m currently working on some super fun 'but secret for now' projects..
 - 💬 Ask me about  :tunisia: Tunisia!
