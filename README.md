@@ -5,5 +5,3 @@ I am a Software Engineer specialising in Frontend Development with 7+ years of e
 - 💬 Ask me about  :tunisia: Tunisia!
 - 📫 How to reach me: best way is to send me an email, I check that thing more than I check time..
 - ⚡ Fun fact: My (extended) family is the only one in the world with this name, 'rabiibouhestine' is never taken :laughing: 
-
-<img src="https://raw.githubusercontent.com/rabiibouhestine/rabiibouhestine/output/snake.svg" alt="Snake animation" />
