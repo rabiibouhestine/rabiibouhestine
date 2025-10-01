@@ -49,8 +49,8 @@ I am a Software Engineer specialising in Frontend Development with 7+ years of e
 <br>
 
 <a href="">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rabiibouhestine&theme=dracula&custom_title=Most+Used+Languages&layout=normal&stats_format=percentages&langs_count=3&card_width=400&border_radius=4.5&hide_title=false&disable_animations=false&hide_progress=false&hide_border=false" height=200 align="center" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rabiibouhestine&theme=dracula&custom_title=Most+Used+Languages&layout=normal&stats_format=percentages&langs_count=3&card_width=360&border_radius=4.5&hide_title=false&disable_animations=false&hide_progress=false&hide_border=false" height=200 align="center" alt="languages graph"/>
 </a>
 <a href="">
-  <img src="https://github-readme-stats.vercel.app/api?username=rabiibouhestine&theme=dracula&rank_icon=github&number_format=short&show=&custom_title=Github+Stats&border_radius=4.5&card_width=400&hide_border=false&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false" height=220 align="center" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rabiibouhestine&theme=dracula&rank_icon=github&number_format=short&show=&custom_title=Github+Stats&border_radius=4.5&card_width=360&hide_border=false&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false" height=220 align="center" alt="stats graph"  />
 </a>
