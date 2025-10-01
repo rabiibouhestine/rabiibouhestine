@@ -1,10 +1,12 @@
 <h1 align="center">Hi there 👋</h1>
 
 <div align=center>
-  <a href="https://www.linkedin.com/in/rabiibouhestine/" target="_blank">
+  <a href="https://www.linkedin.com/in/rabiibouhestine/">
     <img src="https://img.shields.io/badge/Linkedin-rabiibouhestine-blue" alt="badge" />
   </a>
-<img src="https://img.shields.io/badge/Email-rabiibouhestine@gmail.com-red" alt="badge" />
+  <a href="mailto:rabiibouhestine@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rabiibouhestine@gmail.com-red" alt="badge" />
+  </a>
 <img src="https://img.shields.io/badge/Website-rabiibouhestine.com-green" alt="badge" />
 </div>
 
