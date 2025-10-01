@@ -21,21 +21,7 @@ I am a Software Engineer specialising in Frontend Development with 7+ years of e
 <br>
 
 <div align=center>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50" width="50" alt="javascript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="50" width="50" alt="typescript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50" width="50" alt="html5" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50" width="50" alt="css3" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="50" width="50" alt="react" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" height="50" width="50" alt="svelte" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="50" width="50" alt="docker" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pixijs/pixijs-original.svg" height="50" width="50" alt="pixijs" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" height="50" width="50" alt="cloudflare" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="50" width="50" alt="googlecloud" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" width="50" alt="amazonwebservices" />
-</div>
-
-<div align=center>
-  <img src="https://skillicons.dev/icons?i=js,html,css,sass,ts,nodejs,vite,react,nextjs,svelte,docker,tailwind,express,figma,git,mongodb,mysql,supabase,py,r" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,sass,ts,nodejs,vite,react,nextjs,svelte,docker,tailwind,express,figma,git,mongodb,mysql,supabase,py,r&perline=3" alt="skills" />
 </div>
 
 <br>
