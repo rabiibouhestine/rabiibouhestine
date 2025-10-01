@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Email-rabiibouhestine@gmail.com-c71610" alt="badge" />
   </a>
   <a href="https://rabiibouhestine.com/">
-    <img src="https://img.shields.io/badge/Website-rabiibouhestine.com-08851b" alt="badge" />
+    <img src="https://img.shields.io/badge/Website-rabiibouhestine.com-CD6799" alt="badge" />
   </a>
 </div>
 
