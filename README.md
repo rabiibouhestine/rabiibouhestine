@@ -21,7 +21,7 @@ I am a Software Engineer specialising in Frontend Development with 7+ years of e
 <br>
 
 <div align=center>
-  <img src="https://skillicons.dev/icons?i=js,html,css,sass,ts,nodejs,vite,react,nextjs,svelte,docker,tailwind,express,figma,git,mongodb,mysql,supabase,py,r&perline=3" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,sass,ts,nodejs,vite,react,nextjs,svelte,docker,tailwind,express,figma,git,mongodb,mysql,supabase,py,r&perline=10" alt="skills" />
 </div>
 
 <br>
