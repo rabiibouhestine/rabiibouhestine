@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Linkedin-rabiibouhestine-blue" alt="badge" />
   </a>
   <a href="mailto:rabiibouhestine@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rabiibouhestine@gmail.com-red" alt="badge" />
+    <img src="https://img.shields.io/badge/Email-rabiibouhestine@gmail.com-darkred" alt="badge" />
   </a>
   <a href="https://rabiibouhestine.com/">
     <img src="https://img.shields.io/badge/Website-rabiibouhestine.com-darkgreen" alt="badge" />
