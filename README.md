@@ -2,13 +2,13 @@
 
 <div align=center>
   <a href="https://www.linkedin.com/in/rabiibouhestine/">
-    <img src="https://img.shields.io/badge/Linkedin-rabiibouhestine-0a66c2" alt="badge" />
+    <img src="https://img.shields.io/badge/Linkedin-rabiibouhestine-blue" alt="badge" />
   </a>
   <a href="mailto:rabiibouhestine@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rabiibouhestine@gmail.com-f06529" alt="badge" />
+    <img src="https://img.shields.io/badge/Email-rabiibouhestine@gmail.com-red" alt="badge" />
   </a>
   <a href="https://rabiibouhestine.com/">
-    <img src="https://img.shields.io/badge/Website-rabiibouhestine.com-CD6799" alt="badge" />
+    <img src="https://img.shields.io/badge/Website-rabiibouhestine.com-green" alt="badge" />
   </a>
 </div>
 
