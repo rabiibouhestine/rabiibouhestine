@@ -7,7 +7,9 @@
   <a href="mailto:rabiibouhestine@gmail.com">
     <img src="https://img.shields.io/badge/Email-rabiibouhestine@gmail.com-red" alt="badge" />
   </a>
-<img src="https://img.shields.io/badge/Website-rabiibouhestine.com-green" alt="badge" />
+  <a href="https://rabiibouhestine.com/">
+    <img src="https://img.shields.io/badge/Website-rabiibouhestine.com-green" alt="badge" />
+  </a>
 </div>
 
 <br>
