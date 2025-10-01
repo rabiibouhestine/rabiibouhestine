@@ -42,9 +42,7 @@ I am a Software Engineer specialising in Frontend Development with 7+ years of e
   <tbody>
     <tr>
       <td>Row 1, Cell 1</td>
-    </tr>
-    <tr>
-      <td>Row 2, Cell 1</td>
+      <td>Row 1, Cell 2</td>
     </tr>
   </tbody>
 </table>
