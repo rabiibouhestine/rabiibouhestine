@@ -2,7 +2,7 @@
 
 <div align=center>
   <a href="https://www.linkedin.com/in/rabiibouhestine/">
-    <img src="https://img.shields.io/badge/Linkedin-rabiibouhestine-blue" alt="badge" />
+    <img src="https://img.shields.io/badge/Linkedin-rabiibouhestine-darkblue" alt="badge" />
   </a>
   <a href="mailto:rabiibouhestine@gmail.com">
     <img src="https://img.shields.io/badge/Email-rabiibouhestine@gmail.com-darkred" alt="badge" />
