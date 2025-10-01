@@ -20,12 +20,12 @@ I am a Software Engineer specialising in Frontend Development with 7+ years of e
 
 <br>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=rabiibouhestine&theme=dracula&title=Commits%2CReviews%2CExperience%2CIssues%2CPullRequest%2CStars%2CRepositories%2CFollowers&rank=SECRET%2CSSS%2CSS%2CS%2CAAA%2CAA%2CA&column=5&row=1&margin-w=16&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph"/>
+<div align=center>
+  <img src="https://skillicons.dev/icons?i=js,html,css,sass,ts,nodejs,vite,react,nextjs,svelte,docker,tailwind,express,figma,git,mongodb,mysql,supabase,py,r&perline=10" alt="skills" />
 </div>
 
 <br>
 
-<div align=center>
-  <img src="https://skillicons.dev/icons?i=js,html,css,sass,ts,nodejs,vite,react,nextjs,svelte,docker,tailwind,express,figma,git,mongodb,mysql,supabase,py,r&perline=10" alt="skills" />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=rabiibouhestine&theme=dracula&title=Commits%2CReviews%2CExperience%2CIssues%2CPullRequest%2CStars%2CRepositories%2CFollowers&rank=SECRET%2CSSS%2CSS%2CS%2CAAA%2CAA%2CA&column=5&row=1&margin-w=16&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph"/>
 </div>
