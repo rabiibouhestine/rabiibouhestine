@@ -39,16 +39,11 @@ I am a Software Engineer specialising in Frontend Development with 7+ years of e
 <br>
 
 <div align="center">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rabiibouhestine&theme=dracula&custom_title=Most+Used+Languages&layout=normal&stats_format=percentages&langs_count=3&card_width=300&border_radius=4.5&hide_title=false&disable_animations=false&hide_progress=false&hide_border=false" alt="languages graph"/>
-        </td>
-        <td>
-          <img src="https://github-readme-stats.vercel.app/api?username=rabiibouhestine&theme=dracula&rank_icon=github&number_format=short&show=&custom_title=Github+Stats&border_radius=4.5&card_width=300&hide_border=false&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false" alt="stats graph"  />
-        </td>
-      </tr>
-    </tbody>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rabiibouhestine&theme=dracula&custom_title=Most+Used+Languages&layout=normal&stats_format=percentages&langs_count=3&card_width=700&border_radius=4.5&hide_title=false&disable_animations=false&hide_progress=false&hide_border=false" alt="languages graph"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rabiibouhestine&theme=dracula&rank_icon=github&number_format=short&show=&custom_title=Github+Stats&border_radius=4.5&card_width=700&hide_border=false&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false" alt="stats graph"  />
 </div>
