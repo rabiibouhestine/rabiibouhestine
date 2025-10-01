@@ -34,6 +34,10 @@ I am a Software Engineer specialising in Frontend Development with 7+ years of e
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" width="50" alt="amazonwebservices" />
 </div>
 
+<div align=center>
+  <img src="https://skillicons.dev/icons?i=js,html,css,sass,ts,nodejs,vite,react,nextjs,svelte,docker,tailwind,express,figma,git,mongodb,mysql,supabase,py,r" alt="skills" />
+</div>
+
 <br>
 
 <div align="center">
