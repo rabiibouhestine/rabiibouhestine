@@ -38,14 +38,16 @@ I am a Software Engineer specialising in Frontend Development with 7+ years of e
 
 <br>
 
-<table>
-  <tbody>
-    <tr>
-      <td>Row 1, Cell 1</td>
-      <td>Row 1, Cell 2</td>
-    </tr>
-  </tbody>
-</table>
+<div align="center">
+  <table>
+    <tbody>
+      <tr>
+        <td>Row 1, Cell 1</td>
+        <td>Row 1, Cell 2</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rabiibouhestine&theme=dracula&custom_title=Most+Used+Languages&layout=normal&stats_format=percentages&langs_count=3&card_width=700&border_radius=4.5&hide_title=false&disable_animations=false&hide_progress=false&hide_border=false" alt="languages graph"/>
